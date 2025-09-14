@@ -1,12 +1,20 @@
-package Lab1_Java_Refresher_Setup;
+package Lab1_Java_Refresher_Setup.Task3;
 
-/** Represents a student with an ID, name, and grade.*/
+/**
+ * Represents a student with an ID, name, and grade.
+ */
 public class Student {
     private int id;
     private String name;
     private double grade;
 
-    /** Constructs a new Student object.*/
+    /**
+     * Constructs a new Student object.
+     *
+     * @param id    The student's unique ID.
+     * @param name  The student's name.
+     * @param grade The student's grade.
+     */
     public Student(int id, String name, double grade) {
         this.id = id;
         this.name = name;
@@ -27,7 +35,10 @@ public class Student {
         return grade;
     }
 
-    /** Returns a string representation of the student's details.*/
+    /**
+     * Returns a string representation of the student's details.
+     * This makes it easy to print student information.
+     */
     @Override
     public String toString() {
         return "Student{" +

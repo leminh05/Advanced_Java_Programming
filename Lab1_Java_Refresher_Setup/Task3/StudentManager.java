@@ -1,4 +1,4 @@
-package Lab1_Java_Refresher_Setup;
+package Lab1_Java_Refresher_Setup.Task3;
 
 import java.util.ArrayList;
 import java.util.Comparator;

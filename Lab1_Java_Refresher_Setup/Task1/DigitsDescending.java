@@ -1,4 +1,4 @@
-package Lab1_Java_Refresher_Setup;
+package Lab1_Java_Refresher_Setup.Task1;
 
 public class DigitsDescending {
 	public static int sortDigitsDescending(int num) {

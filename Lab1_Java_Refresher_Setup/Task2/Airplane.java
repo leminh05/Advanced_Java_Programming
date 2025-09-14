@@ -1,4 +1,4 @@
-package Lab1_Java_Refresher_Setup;
+package Lab1_Java_Refresher_Setup.Task2;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
